@@ -1,4 +1,4 @@
-# for_each
+# For loop (expression)
 
 In this repository you will use the for loop in Terraform code which shows 5 examples using map and lists 
 
